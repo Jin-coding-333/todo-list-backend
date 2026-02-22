@@ -18,10 +18,9 @@
 - **이미지 URL 반환**: 업로드된 이미지의 접근 가능한 URL 제공
 
 ### 🛠️ 기술 스택
-- **Node.js**: 20.x
-- **Express**: 5.x
+- **NestJS**: 11.x
 - **TypeScript**: 5.x
 - **Prisma**: 7.x
-- **PostgreSQL**: 15.x
+- **PostgreSQL**: (pg 8.x)
 
 

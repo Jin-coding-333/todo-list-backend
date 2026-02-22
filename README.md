@@ -2,7 +2,7 @@
 
 ### 📌 프로젝트 소개
 
-**Do it! Backend API**는 **할 일 관리 웹 애플리케이션(**[Do it](https://github.com/Jin-coding-333/todo-list-frontend)**)** 백엔드 서버입니다.
+**Do it! Backend API**는 **할 일 관리 웹 애플리케이션(**[Do it](https://todo-list-delta-nine.vercel.app/)**)** 백엔드 서버입니다.
 할 일의 생성, 조회, 수정, 삭제(CRUD) 기능과 이미지 업로드 기능을 제공하는 RESTful API를 구현합니다.
 
 ### ✨ 주요 기능
